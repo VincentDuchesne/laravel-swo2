@@ -1,6 +1,6 @@
 # SWO2 Demo (Laravel 11)
 
-Eén lange Laravel-pagina die de voortgang van het hostingplatform demonstreert..
+Eén lange Laravel-pagina die de voortgang van het hostingplatform demonstreert...
 
 ## Installeren
 
